@@ -19,14 +19,14 @@
 ![React](https://img.shields.io/badge/-AWS-000?style=flat-circle&logo=aws)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
 
-
  <a href="https://github.com/tusher-A/tusher-A">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=tusher-A&count_private=true&show_icons=true&hide=issues,contribs&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true" />
-  </a>
-  
-  <a href="https://github.com/tusher-A/tusher-A">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusher-A&layout=compact&theme=github_dark&hide_border=true" />
-</a>
+ </a>
+ <a href="https://github.com/tusher-A/tusher-A">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tusher-A&count_private=true&show_icons=true&hide=issues,contribs&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true" />
+ </a>
+  
+
 
 <p align="center">
   <img src ="http://github-readme-streak-stats.herokuapp.com?user=tusher-A&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
