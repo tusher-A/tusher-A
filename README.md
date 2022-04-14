@@ -1,7 +1,7 @@
 ## Heyyo, I'm Tusher! 👋 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-I'm a **Software Devlopment Engineer** with more than three years of industry experience. Mostly been working in the Front-end with Javascript based libraries and framework. Finding my way towards the Back-end. 
+**Software Devlopment Engineer** with more than three years of industry experience. Mostly been working in the Front-end with Javascript based libraries and framework. Finding my way towards the Back-end whenever I get time. 
 </br>
 
 #### Front-end: 
