@@ -1,7 +1,7 @@
 ## Heyyo, I'm Tusher! 👋 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-**Software Devlopment Engineer** with more than 3 years of industry experience. Mostly been working in the Front-end with Javascript based libraries and framework. Finding my way towards the Back-end whenever I get time. 
+**Software Devlopment Engineer** with more than 4 years of industry experience. Have solid working experience with React and TypeScript. Working knowledge in backend technologies such as AWS Lambda, AppSync, CloudFront, DynamoDB etc. 
 </br>
 
 #### Front-end: 
