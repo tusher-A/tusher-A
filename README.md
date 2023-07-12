@@ -1,7 +1,7 @@
-## Heyyo, I'm Tusher! 👋 
+## Hi, I'm Tusher! 👋 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-**Software Devlopment Engineer** with more than 4 years of industry experience. Have solid working experience with React and TypeScript. Working knowledge in backend technologies such as AWS Lambda, AppSync, CloudFront, DynamoDB etc. 
+**Full-stack Software Developer** with a strong focus on React and AWS. With 4+ years of experience in developing and delivering web and mobile applications, have a deep understanding of React and its ecosystem, including Redux, GraphQL & TypeScript. Proficient in AWS services such as Lambda, S3, CloudFront, Amplify, Cognito, CodePipeline, AppSync and DynamoDB
 </br>
 
 #### Front-end: 
@@ -10,14 +10,16 @@
 ![React](https://img.shields.io/badge/-GraphQL-000?style=flat-circle&logo=graphql)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-circle&logo=typeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-circle&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-circle&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-circle&logo=css3)
 
 
 #### Back-end:
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-AWS-000?style=flat-circle&logo=aws)
-![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+![AppSync](https://badgen.net/badge/AWS/AppSync/blue)
+![Lambda](https://badgen.net/badge/AWS/Lambda/orange)
+![CloudFront](https://badgen.net/badge/AWS/CloudFront/purple)
+![CloudFormation](https://badgen.net/badge/AWS/CloudFormation/yellow)
+![s3](https://badgen.net/badge/AWS/S3/grey)
+![CodePipeline](https://badgen.net/badge/AWS/CodePipeline/red)
+![CodePipeline](https://badgen.net/badge/NodeJS/Express/green)
 
  <a href="https://github.com/tusher-A/tusher-A">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tusher-A&count_private=true&show_icons=true&hide=issues,contribs&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true" />
