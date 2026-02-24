@@ -1,4 +1,4 @@
-## Hey, I'm Tusher! 
+## Hey, I'm Tusher
 
 **Full-stack Software Developer** with a strong focus on React and AWS. With 7+ years of experience in developing and delivering web and mobile applications, have a deep understanding of React and its ecosystem, including Redux, GraphQL & TypeScript. Proficient in AWS services such as Lambda, S3, CloudFront, Amplify, Cognito, CodePipeline, AppSync and DynamoDB
 </br>
